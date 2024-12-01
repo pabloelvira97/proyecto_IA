@@ -1,0 +1,15 @@
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.csproj.AssemblyReference.cache
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.AssemblyInfoInputs.cache
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.AssemblyInfo.cs
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.csproj.CoreCompileInputs.cache
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\bin\Debug\net6.0\Proyecto_IA.exe
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\bin\Debug\net6.0\Proyecto_IA.deps.json
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\bin\Debug\net6.0\Proyecto_IA.runtimeconfig.json
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\bin\Debug\net6.0\Proyecto_IA.dll
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\bin\Debug\net6.0\Proyecto_IA.pdb
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.dll
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\refint\Proyecto_IA.dll
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.pdb
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\Proyecto_IA.genruntimeconfig.cache
+C:\Users\wefinz\Desktop\unidad compartida\Proyecto_IA\Proyecto_IA\Proyecto_IA\obj\Debug\net6.0\ref\Proyecto_IA.dll
